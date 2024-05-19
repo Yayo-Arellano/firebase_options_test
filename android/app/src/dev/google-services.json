@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1039346334223",
+    "project_id": "simple-firebase-crud-310d0",
+    "storage_bucket": "simple-firebase-crud-310d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039346334223:android:ab93e6cbeb87d5599e017a",
+        "android_client_info": {
+          "package_name": "com.yayocode.devflavor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039346334223-hc61d2q7k9ul6llg0a3qhq9e9phs6p2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC0z8uLzTTve4ic5D3gqTduJ1uqbg0AaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039346334223-hc61d2q7k9ul6llg0a3qhq9e9phs6p2n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039346334223-j5jj5ms24eltephortbqftjk6v36m3tf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nopalsoft.flutterSimpleFirebaseCrudCubit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039346334223:android:267b6bfab330376a9e017a",
+        "android_client_info": {
+          "package_name": "com.yayocode.prodflavor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039346334223-hc61d2q7k9ul6llg0a3qhq9e9phs6p2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC0z8uLzTTve4ic5D3gqTduJ1uqbg0AaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039346334223-hc61d2q7k9ul6llg0a3qhq9e9phs6p2n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039346334223-j5jj5ms24eltephortbqftjk6v36m3tf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nopalsoft.flutterSimpleFirebaseCrudCubit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
